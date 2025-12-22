@@ -1,15 +1,12 @@
 ---
 title: "Yanmeng Xing"
 image: profile.jpg
-toc: true
-toc-location: right
-toc-title: "On this page"
 about:
   template: trestles
   image-width: 9em
   image-shape: rectangle
   links:
-    - icon: google-scholar
+    - icon: mortar-board
       text: Google Scholar
       href: https://scholar.google.com/citations?user=ZoDOGFUAAAAJ
     - icon: github
@@ -76,15 +73,3 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-
-<style>
-/* 稍微限制中间正文的最大宽度，防止它把右边的目录挤出去 */
-.about-contents {
-  max-width: 820px !important;
-}
-
-/* 确保图标显示正常 */
-.bi-google-scholar::before {
-    content: "\e900"; /* Academicons 的 Google Scholar 编码 */
-}
-</style>
