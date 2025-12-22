@@ -27,23 +27,22 @@ My recent research, published in ***Nature Human Behaviour***, explores how acad
 
 Currently, I am leading a research project supported by the **National Natural Science Foundation of China (NSFC) Youth Fund**.
 
-## Research Interests
-
-* **Science of Science**: Mentorship dynamics, career trajectories, and academic independence.
-* **Complex Systems**: Network resilience, cascading failures, and structural analysis.
-* **Data Science**: Processing large-scale scholarly datasets (OpenAlex, MAG, APS) using Python and SQL.
-
 ## News
 
 * **[2025.03]** Our work on mentorship published in ***Nature Human Behaviour*** is featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9)!
 * **[2025.12]** Serving as an independent PI at **Nanjing University**.
 * **[2024.08]** New preprint available: "Exaptation: Academic mentees' career pathway to be independent and impactful."
 
+## Research Interests
+
+* **Science of Science**: Mentorship dynamics, career trajectories, and academic independence.
+* **Complex Systems**: Network resilience, cascading failures, and structural analysis.
+* **Data Science**: Processing large-scale scholarly datasets (OpenAlex, MAG, APS) using Python and SQL.
+
 :::
 
 <script>
 window.document.addEventListener("DOMContentLoaded", function (event) {
-  // 定义要插入的教育经历 HTML 内容（纯英文，避免乱码）
   const educationHTML = `
   <div style="margin-top: 30px; text-align: left; border-top: 1px solid #ddd; padding-top: 20px;">
     <h4 style="font-weight: bold; font-size: 0.9rem; color: #444; margin-bottom: 10px; text-transform: uppercase;">Education</h4>
@@ -71,10 +70,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
   `;
 
-  // 找到左侧侧边栏 (.about-entity)
   const sidebar = document.querySelector('.about-entity');
   if (sidebar) {
-    // 将 HTML 插入到侧边栏的最底部
     sidebar.insertAdjacentHTML('beforeend', educationHTML);
   }
 });
