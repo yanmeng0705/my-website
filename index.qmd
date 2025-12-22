@@ -1,6 +1,9 @@
 ---
 title: "Yanmeng Xing"
 image: profile.jpg
+toc: true
+toc-location: right
+toc-title: "On this page"
 about:
   template: trestles
   image-width: 9em
@@ -73,3 +76,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+
+<style>
+/* 将页面总宽度限制为屏幕的 70% */
+.quarto-container {
+    max-width: 70% !important;
+}
+
+/* 确保在宽屏下，侧边栏、正文和目录能横向排开 */
+@media (min-width: 1200px) {
+    .about-entity {
+        max-width: 280px !important; 
+        flex-basis: 280px !important;
+    }
+    .about-contents {
+        flex-grow: 1;
+        padding-left: 3em;
+        padding-right: 3em;
+    }
+}
+</style>
