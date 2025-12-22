@@ -8,6 +8,7 @@ My research focuses on **Science of Science**, **Complex Networks**, and **Acade
 
 ### 2025
 * **Xing, Y.**, Ma, Y., Fan, Y., Sinatra, R., & Zeng, A. (2025). Academic mentees thrive in big groups, but survive in small groups. *Nature Human Behaviour*. [{{< fa external-link >}} Link](https://doi.org/10.1038/s41562-025-02114-8)
+    * [{{< fa star >}} **Featured in *Nature* News**: "How to pick a mentor: what the data say"](https://www.nature.com/articles/d41586-025-00644-9)
 
 ### 2024
 * **Xing, Y.**, Sun, Y., Pan, T., Livan, G., & Ma, Y. (2024). Exaptation: Academic mentees' career pathway to be independent and impactful. *arXiv preprint arXiv:2408.16992*. [{{< fa external-link >}} Preprint](https://arxiv.org/abs/2408.16992)
@@ -16,7 +17,7 @@ My research focuses on **Science of Science**, **Complex Networks**, and **Acade
 * Zhong, C., **Xing, Y.**, Fan, Y., & Zeng, A. (2023). Predicting the cascading dynamics in complex networks via the bimodal failure size distribution. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 33(2). [{{< fa external-link >}} Link](https://doi.org/10.1063/5.0119902)
 
 ### 2022
-* Song, D., Wang, W., Fan, Y., **Xing, Y.***, & Zeng, A. (2022). Quantifying the structural and temporal characteristics of negative links in signed citation networks. *Information Processing & Management*, 59(4), 102996. [{{< fa external-link >}} Link](https://doi.org/10.1016/j.ipm.2022.102996)(*Corresponding author*)
+* Song, D., Wang, W., Fan, Y., **Xing, Y.**\*, & Zeng, A. (2022). Quantifying the structural and temporal characteristics of negative links in signed citation networks. *Information Processing & Management*, 59(4), 102996. [{{< fa external-link >}} Link](https://doi.org/10.1016/j.ipm.2022.102996)(*Corresponding author*)
 
 ### 2021
 * **Xing, Y.**, Wang, F., Zeng, A., & Ying, F. (2021). Solving the cold-start problem in scientific credit allocation. *Journal of Informetrics*, 15(3), 101157. [{{< fa external-link >}} Link](https://doi.org/10.1016/j.joi.2021.101157)
