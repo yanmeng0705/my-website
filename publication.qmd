@@ -2,4 +2,30 @@
 title: "Publications"
 ---
 
+My research focuses on **Science of Science**, **Complex Networks**, and **Academic Career Development**. I use data-driven approaches to understand how mentorship, team size, and network structures affect scientific success.
 
+## Selected Publications
+
+### 2025
+* **Xing, Y.**, Ma, Y., Fan, Y., Sinatra, R., & Zeng, A. (2025). Academic mentees thrive in big groups, but survive in small groups. *Nature Human Behaviour*. [{{< fa external-link >}} Link](https://doi.org/10.1038/s41562-025-02114-8)
+
+### 2024
+* **Xing, Y.**, Sun, Y., Pan, T., Liang, X., Livan, G., & Ma, Y. (2024). Exaptation: Academic mentees' career pathway to be independent and impactful. *arXiv preprint arXiv:2408.16992*. [{{< fa external-link >}} Preprint](https://arxiv.org/abs/2408.16992)
+
+### 2023
+* Zhong, C., **Xing, Y.**, Fan, Y., & Zeng, A. (2023). Predicting the cascading dynamics in complex networks via the bimodal failure size distribution. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 33(2). [{{< fa external-link >}} Link](https://doi.org/10.1063/5.0119902)
+
+### 2022
+* Song, D., Wang, W., Fan, Y., **Xing, Y.**, & Zeng, A. (2022). Quantifying the structural and temporal characteristics of negative links in signed citation networks. *Information Processing & Management*, 59(4), 102996. [{{< fa external-link >}} Link](https://doi.org/10.1016/j.ipm.2022.102996)
+
+### 2021
+* **Xing, Y.**, Wang, F., Zeng, A., & Ying, F. (2021). Solving the cold-start problem in scientific credit allocation. *Journal of Informetrics*, 15(3), 101157. [{{< fa external-link >}} Link](https://doi.org/10.1016/j.joi.2021.101157)
+
+### 2019
+* **Xing, Y.**, Zeng, A., Fan, Y., & Di, Z. (2019). The strong nonlinear effect in academic dropout. *Scientometrics*, 120(2), 793-805. [{{< fa external-link >}} Link](https://doi.org/10.1007/s11192-019-03135-7)
+
+---
+
+## Academic Profiles
+* [{{< fa mortar-board >}} Google Scholar](https://scholar.google.com/citations?user=ZoDOGFUAAAAJ)
+* [{{< fa navicon >}} ResearchGate](https://www.researchgate.net/profile/Yanmeng-Xing)
