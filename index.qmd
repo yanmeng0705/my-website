@@ -3,7 +3,7 @@ title: "Yanmeng Xing"
 image: profile.jpg
 about:
   template: trestles
-  image-width: 8em
+  image-width: 9em
   image-shape: rectangle
   links:
     - icon: mortar-board
@@ -20,32 +20,67 @@ about:
       href: https://github.com/yanmeng0705
 ---
 
+::: {#hero-heading}
+
 ## Biography
 
 I am an independent **Principal Investigator (PI)** at the Data Management Innovation Research Center, **Nanjing University**. My research expertise lies in **Scientometrics**, **Science & Technology Policy**, and **Complex Networks**. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.
 
 My recent research, published in ***Nature Human Behaviour***, explores how academic group size influences mentee success. This work has been highlighted by [***Nature News***](https://www.nature.com/articles/d41586-025-00644-9): *"How to pick a mentor: what the data say"*.
 
-Currently, I am leading a project funded by the **National Natural Science Foundation of China (NSFC) Youth Fund** focusing on the evolution of scientific research careers.
-
----
-
-## 🎓 Education & Experience
-
-* **Joint Ph.D.** in Computer Science, IT University of Copenhagen, Denmark (2021.09 – 2023.05)
-* **M.D.-Ph.D.** in Complexity Science, Beijing Normal University, China (2017.09 – 2023.06)
-* **B.Sc.** in Mathematics and Applied Mathematics, China University of Mining and Technology, China (2013.09 – 2017.07)
-
----
+Currently, I am leading a research project titled *"Research on the evolution mechanism and policy optimization of young scholars' scientific research career development path driven by mentors"*, which is supported by the **National Natural Science Foundation of China (NSFC) Youth Fund** (Category: G0403).
 
 ## 🔬 Research Interests
 
 * **Science of Science**: Mentorship dynamics and career trajectories.
 * **Complex Systems**: Network resilience and cascading failures.
-* **Data Science**: Processing large-scale scholarly datasets like OpenAlex and MAG using Python and MySQL.
+* **Data Science**: Processing large-scale scholarly datasets like OpenAlex, MAG, and APS using Python and MySQL.
 
 ## 📢 News
 
 * **[2025.03]** Our work on mentorship published in ***Nature Human Behaviour*** is featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9)!
-* **[2025.12]** Serving as an independent PI at **Nanjing University**.
-* **[2024.08]** New preprint on mentee independence pathways (Exaptation) is now on arXiv.
+* **[2024.08]** New preprint on mentee independence pathways (Exaptation) is now available.
+
+:::
+
+```{raw html}
+<style>
+/* 强制在左侧按钮下方添加教育经历 */
+.about-links::after {
+    content: "EDUCATION";
+    display: block;
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 0.85rem;
+    color: #666;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.about-links {
+    position: relative;
+}
+
+/* 插入具体教育条目 */
+.about-links::before {
+    content: "• Joint Ph.D. \A  ITU Copenhagen \A  (2021-2023) \A\A • M.D.-Ph.D. \A  Beijing Normal Univ. \A  (2017-2023) \A\A • B.Sc. \A  China Univ. of Mining \A  and Tech (2013-2017)";
+    display: block;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    padding-top: 55px; /* 避开上面的 EDUCATION 标题 */
+    font-size: 0.8rem;
+    line-height: 1.4;
+    color: #333;
+    text-align: left;
+    white-space: pre-wrap; /* 确保换行符有效 */
+    width: 100%;
+}
+
+/* 给左侧栏留出足够的底部空间防止遮挡 */
+.about-entity {
+    margin-bottom: 250px !important;
+}
+</style>
