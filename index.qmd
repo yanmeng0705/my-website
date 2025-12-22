@@ -1,5 +1,5 @@
 ---
-title: "Yanmeng Xing"
+title: "Yanmeng Xing (邢艳梦)"
 image: profile.jpg
 about:
   template: trestles
@@ -28,59 +28,62 @@ I am an independent **Principal Investigator (PI)** at the Data Management Innov
 
 My recent research, published in ***Nature Human Behaviour***, explores how academic group size influences mentee success. This work has been highlighted by [***Nature News***](https://www.nature.com/articles/d41586-025-00644-9): *"How to pick a mentor: what the data say"*.
 
-Currently, I am leading a research project titled *"Research on the evolution mechanism and policy optimization of young scholars' scientific research career development path driven by mentors"*, which is supported by the **National Natural Science Foundation of China (NSFC) Youth Fund** (Category: G0403).
+Currently, I am leading a research project supported by the **National Natural Science Foundation of China (NSFC) Youth Fund**.
 
 ## 🔬 Research Interests
 
 * **Science of Science**: Mentorship dynamics and career trajectories.
 * **Complex Systems**: Network resilience and cascading failures.
-* **Data Science**: Processing large-scale scholarly datasets like OpenAlex, MAG, and APS using Python and MySQL.
+* **Data Science**: Scholarly data mining (OpenAlex, MAG, APS).
 
 ## 📢 News
 
 * **[2025.03]** Our work on mentorship published in ***Nature Human Behaviour*** is featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9)!
+* **[2025.12]** Served as an independent PI at **Nanjing University**.
 * **[2024.08]** New preprint on mentee independence pathways (Exaptation) is now available.
 
 :::
 
-```{raw html}
-<style>
-/* 强制在左侧按钮下方添加教育经历 */
-.about-links::after {
-    content: "EDUCATION";
-    display: block;
-    margin-top: 30px;
-    font-weight: 700;
-    font-size: 0.85rem;
-    color: #666;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 5px;
-    margin-bottom: 15px;
-    text-align: left;
-}
+<div id="education-content" style="display: none;">
+  <div style="margin-top: 25px; border-top: 1px solid #ddd; padding-top: 15px; text-align: left;">
+    <h4 style="font-size: 1rem; font-weight: bold; margin-bottom: 10px; color: #444;">EDUCATION</h4>
+    
+    <div style="font-size: 0.85rem; line-height: 1.4; margin-bottom: 12px;">
+      <strong>Joint Ph.D.</strong><br>
+      Computer Science Department<br>
+      <span style="color: #666;">IT University of Copenhagen</span><br>
+      (2021 – 2023)
+    </div>
 
-.about-links {
-    position: relative;
-}
+    <div style="font-size: 0.85rem; line-height: 1.4; margin-bottom: 12px;">
+      <strong>M.D.-Ph.D.</strong><br>
+      School of Systems Science<br>
+      <span style="color: #666;">Beijing Normal University</span><br>
+      (2017 – 2023)
+    </div>
 
-/* 插入具体教育条目 */
-.about-links::before {
-    content: "• Joint Ph.D. \A  ITU Copenhagen \A  (2021-2023) \A\A • M.D.-Ph.D. \A  Beijing Normal Univ. \A  (2017-2023) \A\A • B.Sc. \A  China Univ. of Mining \A  and Tech (2013-2017)";
-    display: block;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    padding-top: 55px; /* 避开上面的 EDUCATION 标题 */
-    font-size: 0.8rem;
-    line-height: 1.4;
-    color: #333;
-    text-align: left;
-    white-space: pre-wrap; /* 确保换行符有效 */
-    width: 100%;
-}
+    <div style="font-size: 0.85rem; line-height: 1.4;">
+      <strong>B.Sc.</strong><br>
+      Mathematics<br>
+      <span style="color: #666;">China University of Mining and Technology</span><br>
+      (2013 – 2017)
+    </div>
+  </div>
+</div>
 
-/* 给左侧栏留出足够的底部空间防止遮挡 */
-.about-entity {
-    margin-bottom: 250px !important;
-}
-</style>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // 1. 找到左侧栏
+  var sidebar = document.querySelector('.about-entity');
+  // 2. 找到我们写的教育经历内容
+  var content = document.getElementById('education-content');
+  
+  // 3. 开始搬运
+  if (sidebar && content) {
+    // 把内容显示出来（原本是隐藏的）
+    content.style.display = 'block';
+    // 把内容插入到左侧栏的最后面（也就是 Github 按钮的下面）
+    sidebar.appendChild(content);
+  }
+});
+</script>
