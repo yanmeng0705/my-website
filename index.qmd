@@ -1,6 +1,9 @@
 ---
 title: "Yanmeng Xing (邢艳梦)"
 image: profile.jpg
+toc: true
+toc-location: right
+toc-title: "On this page"
 about:
   template: trestles
   image-width: 9em
@@ -24,7 +27,7 @@ about:
 
 ## Biography
 
-I am an independent **Principal Investigator (PI)** at the Data Management Innovation Research Center, **Nanjing University**. My research expertise lies in **Scientometrics**, **Science & Technology Policy**, and **Complex Networks**. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.
+I am an independent **Principal Investigator (PI)** at the Data Management Innovation Research Center, **Nanjing University**. My research expertise lies in **Science of Science (SciSci)**, **Complex Networks**, and **Scientometrics**. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.
 
 My recent research, published in ***Nature Human Behaviour***, explores how academic group size influences mentee success. This work has been highlighted by [***Nature News***](https://www.nature.com/articles/d41586-025-00644-9): *"How to pick a mentor: what the data say"*.
 
@@ -32,58 +35,62 @@ Currently, I am leading a research project supported by the **National Natural S
 
 ## 🔬 Research Interests
 
-* **Science of Science**: Mentorship dynamics and career trajectories.
-* **Complex Systems**: Network resilience and cascading failures.
-* **Data Science**: Scholarly data mining (OpenAlex, MAG, APS).
+* **Science of Science**: Mentorship dynamics, career trajectories, and academic independence.
+* **Complex Systems**: Network resilience, cascading failures, and structural analysis.
+* **Data Science**: Processing large-scale scholarly datasets (OpenAlex, MAG, APS) using Python and SQL.
 
 ## 📢 News
 
 * **[2025.03]** Our work on mentorship published in ***Nature Human Behaviour*** is featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9)!
-* **[2025.12]** Served as an independent PI at **Nanjing University**.
-* **[2024.08]** New preprint on mentee independence pathways (Exaptation) is now available.
+* **[2025.12]** Serving as an independent PI at **Nanjing University**.
+* **[2024.08]** New preprint available: "Exaptation: Academic mentees' career pathway to be independent and impactful."
 
 :::
 
-<div id="education-content" style="display: none;">
-  <div style="margin-top: 25px; border-top: 1px solid #ddd; padding-top: 15px; text-align: left;">
-    <h4 style="font-size: 1rem; font-weight: bold; margin-bottom: 10px; color: #444;">EDUCATION</h4>
+<div id="education-sidebar" style="display: none;">
+  <div style="margin-top: 35px; border-top: 1px solid #ddd; padding-top: 20px; text-align: left;">
+    <h4 style="font-size: 0.9rem; font-weight: bold; margin-bottom: 12px; color: #333; letter-spacing: 1px;">EDUCATION</h4>
     
-    <div style="font-size: 0.85rem; line-height: 1.4; margin-bottom: 12px;">
-      <strong>Joint Ph.D.</strong><br>
+    <div style="font-size: 0.85rem; line-height: 1.5; margin-bottom: 15px;">
+      <strong style="color: #000;">Joint Ph.D.</strong><br>
       Computer Science Department<br>
-      <span style="color: #666;">IT University of Copenhagen</span><br>
-      (2021 – 2023)
+      IT University of Copenhagen<br>
+      <span style="color: #666;">2021.09 – 2023.05</span>
     </div>
 
-    <div style="font-size: 0.85rem; line-height: 1.4; margin-bottom: 12px;">
-      <strong>M.D.-Ph.D.</strong><br>
+    <div style="font-size: 0.85rem; line-height: 1.5; margin-bottom: 15px;">
+      <strong style="color: #000;">M.D.-Ph.D.</strong><br>
       School of Systems Science<br>
-      <span style="color: #666;">Beijing Normal University</span><br>
-      (2017 – 2023)
+      Beijing Normal University<br>
+      <span style="color: #666;">2017.09 – 2023.06</span>
     </div>
 
-    <div style="font-size: 0.85rem; line-height: 1.4;">
-      <strong>B.Sc.</strong><br>
-      Mathematics<br>
-      <span style="color: #666;">China University of Mining and Technology</span><br>
-      (2013 – 2017)
+    <div style="font-size: 0.85rem; line-height: 1.5;">
+      <strong style="color: #000;">B.Sc.</strong><br>
+      Mathematics and Applied Mathematics<br>
+      China University of Mining and Technology<br>
+      <span style="color: #666;">2013.09 – 2017.07</span>
     </div>
   </div>
 </div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  // 1. 找到左侧栏
   var sidebar = document.querySelector('.about-entity');
-  // 2. 找到我们写的教育经历内容
-  var content = document.getElementById('education-content');
+  var education = document.getElementById('education-sidebar');
   
-  // 3. 开始搬运
-  if (sidebar && content) {
-    // 把内容显示出来（原本是隐藏的）
-    content.style.display = 'block';
-    // 把内容插入到左侧栏的最后面（也就是 Github 按钮的下面）
-    sidebar.appendChild(content);
+  if (sidebar && education) {
+    education.style.display = 'block';
+    sidebar.appendChild(education);
   }
 });
 </script>
+
+<style>
+/* 确保主内容区不会挤压右侧目录 */
+@media (min-width: 1200px) {
+  .quarto-about-trestles .about-contents {
+    padding-right: 2em;
+  }
+}
+</style>
