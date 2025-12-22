@@ -129,16 +129,8 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#biography" id="toc-biography" class="nav-link active" data-scroll-target="#biography">Biography</a></li>
-  <li><a href="#news" id="toc-news" class="nav-link" data-scroll-target="#news">News</a></li>
-  <li><a href="#research-interests" id="toc-research-interests" class="nav-link" data-scroll-target="#research-interests">Research Interests</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -163,28 +155,34 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="grid">
-<p>::: {.g-col-12 g-col-md-4}</p>
+<div class="g-col-12 g-col-md-4">
 <p><img src="profile.jpg" class="img-fluid" style="width:9em" alt="Portrait photo of Yanmeng Xing"></p>
 <section id="yanmeng-xing" class="level3">
 <h3 class="anchored" data-anchor-id="yanmeng-xing">Yanmeng Xing</h3>
 <p><a href="https://scholar.google.com/citations?user=ZoDOGFUAAAAJ" class="btn btn-outline-secondary btn-sm">Google Scholar</a> <a href="https://github.com/yanmeng0705" class="btn btn-outline-secondary btn-sm">GitHub</a></p>
 <section id="education" class="level4">
 <h4 class="anchored" data-anchor-id="education">Education</h4>
-<ul>
-<li><p><strong>Joint Ph.D.</strong><br>
-Computer Science Dept., IT University of Copenhagen<br>
-<em>2021.09 – 2023.05</em></p></li>
-<li><p><strong>M.D.-Ph.D.</strong><br>
-School of Systems Science, Beijing Normal University<br>
-<em>2017.09 – 2023.06</em></p></li>
-<li><p><strong>B.Sc.</strong><br>
-Maths &amp; Applied Maths, China Univ. of Mining and Tech<br>
-<em>2013.09 – 2017.07</em></p></li>
-</ul>
+<div class="edu-block">
+<div class="edu-item">
+<pre><code>&lt;div class="edu-degree"&gt;Joint Ph.D.&lt;/div&gt;
+&lt;div class="edu-meta"&gt;Computer Science Dept., IT University of Copenhagen&lt;/div&gt;
+&lt;div class="edu-time"&gt;2021.09 – 2023.05&lt;/div&gt;</code></pre>
+</div>
+<div class="edu-item">
+<pre><code>&lt;div class="edu-degree"&gt;M.D.-Ph.D.&lt;/div&gt;
+&lt;div class="edu-meta"&gt;School of Systems Science, Beijing Normal University&lt;/div&gt;
+&lt;div class="edu-time"&gt;2017.09 – 2023.06&lt;/div&gt;</code></pre>
+</div>
+<div class="edu-item">
+<pre><code>&lt;div class="edu-degree"&gt;B.Sc.&lt;/div&gt;
+&lt;div class="edu-meta"&gt;Maths &amp; Applied Maths, China Univ. of Mining and Tech&lt;/div&gt;
+&lt;div class="edu-time"&gt;2013.09 – 2017.07&lt;/div&gt;</code></pre>
+</div>
+</div>
 </section>
 </section>
 </div>
-<p>::: {.g-col-12 g-col-md-8}</p>
+<div class="g-col-12 g-col-md-8">
 <section id="biography" class="level2">
 <h2 class="anchored" data-anchor-id="biography">Biography</h2>
 <p>I am an independent <strong>Principal Investigator (PI)</strong> at the Data Management Innovation Research Center, <strong>Nanjing University</strong>. My research expertise lies in <strong>Science of Science</strong>, <strong>Complex Networks</strong>, and <strong>Scientometrics</strong>. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.</p>
@@ -206,11 +204,19 @@ Maths &amp; Applied Maths, China Univ. of Mining and Tech<br>
 <li><strong>Complex Systems</strong>: Network resilience, cascading failures, and structural analysis.</li>
 <li><strong>Data Science</strong>: Processing large-scale scholarly datasets (OpenAlex, MAG, APS) using Python and SQL.</li>
 </ul>
-<p>:::</p>
-<p>:::</p>
-
-
 </section>
+</div>
+</div>
+<style>
+/* 左侧 Education 排版：紧凑、不会一词一行，暗色/亮色都友好 */
+.edu-block { margin-top: .5rem; }
+.edu-item { margin-bottom: .9rem; }
+.edu-degree { font-weight: 700; }
+.edu-meta { color: var(--bs-secondary-color); line-height: 1.35; }
+.edu-time { color: var(--bs-secondary-color); opacity: .75; font-style: italic; font-size: .9em; }
+</style>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

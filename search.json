@@ -32,27 +32,27 @@
     "href": "index.html",
     "title": "Yanmeng Xing",
     "section": "",
-    "text": "::: {.g-col-12 g-col-md-4}\n\n\n\nGoogle Scholar GitHub\n\n\n\nJoint Ph.D.\nComputer Science Dept., IT University of Copenhagen\n2021.09 – 2023.05\nM.D.-Ph.D.\nSchool of Systems Science, Beijing Normal University\n2017.09 – 2023.06\nB.Sc.\nMaths & Applied Maths, China Univ. of Mining and Tech\n2013.09 – 2017.07\n::: {.g-col-12 g-col-md-8}"
+    "text": "Google Scholar GitHub\n\n\n\n\n&lt;div class=\"edu-degree\"&gt;Joint Ph.D.&lt;/div&gt;\n&lt;div class=\"edu-meta\"&gt;Computer Science Dept., IT University of Copenhagen&lt;/div&gt;\n&lt;div class=\"edu-time\"&gt;2021.09 – 2023.05&lt;/div&gt;\n\n\n&lt;div class=\"edu-degree\"&gt;M.D.-Ph.D.&lt;/div&gt;\n&lt;div class=\"edu-meta\"&gt;School of Systems Science, Beijing Normal University&lt;/div&gt;\n&lt;div class=\"edu-time\"&gt;2017.09 – 2023.06&lt;/div&gt;\n\n\n&lt;div class=\"edu-degree\"&gt;B.Sc.&lt;/div&gt;\n&lt;div class=\"edu-meta\"&gt;Maths & Applied Maths, China Univ. of Mining and Tech&lt;/div&gt;\n&lt;div class=\"edu-time\"&gt;2013.09 – 2017.07&lt;/div&gt;\n\n\n\n\n\n\n\n\nI am an independent Principal Investigator (PI) at the Data Management Innovation Research Center, Nanjing University. My research expertise lies in Science of Science, Complex Networks, and Scientometrics. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.\nMy recent research, published in Nature Human Behaviour, explores how academic group size influences mentee success. This work has been highlighted by Nature News.\nCurrently, I am leading a research project supported by the National Natural Science Foundation of China (NSFC) Youth Fund.\n\n\n\n\n[2025.03] Our work on mentorship published in Nature Human Behaviour is featured by Nature News!\n[2025.12] Serving as an independent PI at Nanjing University.\n[2024.08] New preprint available: “Exaptation: Academic mentees’ career pathway to be independent and impactful.”\n\n\n\n\n\nScience of Science: Mentorship dynamics, career trajectories, and academic independence.\nComplex Systems: Network resilience, cascading failures, and structural analysis.\nData Science: Processing large-scale scholarly datasets (OpenAlex, MAG, APS) using Python and SQL."
   },
   {
     "objectID": "index.html#biography",
     "href": "index.html#biography",
     "title": "Yanmeng Xing",
-    "section": "Biography",
-    "text": "Biography\nI am an independent Principal Investigator (PI) at the Data Management Innovation Research Center, Nanjing University. My research expertise lies in Science of Science, Complex Networks, and Scientometrics. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.\nMy recent research, published in Nature Human Behaviour, explores how academic group size influences mentee success. This work has been highlighted by Nature News.\nCurrently, I am leading a research project supported by the National Natural Science Foundation of China (NSFC) Youth Fund."
+    "section": "",
+    "text": "I am an independent Principal Investigator (PI) at the Data Management Innovation Research Center, Nanjing University. My research expertise lies in Science of Science, Complex Networks, and Scientometrics. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.\nMy recent research, published in Nature Human Behaviour, explores how academic group size influences mentee success. This work has been highlighted by Nature News.\nCurrently, I am leading a research project supported by the National Natural Science Foundation of China (NSFC) Youth Fund."
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "Yanmeng Xing",
-    "section": "News",
-    "text": "News\n\n[2025.03] Our work on mentorship published in Nature Human Behaviour is featured by Nature News!\n[2025.12] Serving as an independent PI at Nanjing University.\n[2024.08] New preprint available: “Exaptation: Academic mentees’ career pathway to be independent and impactful.”"
+    "section": "",
+    "text": "[2025.03] Our work on mentorship published in Nature Human Behaviour is featured by Nature News!\n[2025.12] Serving as an independent PI at Nanjing University.\n[2024.08] New preprint available: “Exaptation: Academic mentees’ career pathway to be independent and impactful.”"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Yanmeng Xing",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nScience of Science: Mentorship dynamics, career trajectories, and academic independence.\nComplex Systems: Network resilience, cascading failures, and structural analysis.\nData Science: Processing large-scale scholarly datasets (OpenAlex, MAG, APS) using Python and SQL.\n\n:::\n:::"
+    "section": "",
+    "text": "Science of Science: Mentorship dynamics, career trajectories, and academic independence.\nComplex Systems: Network resilience, cascading failures, and structural analysis.\nData Science: Processing large-scale scholarly datasets (OpenAlex, MAG, APS) using Python and SQL."
   }
 ]
