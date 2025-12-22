@@ -8,7 +8,7 @@ My research focuses on **Science of Science**, **Complex Networks**, and **Acade
 
 ### 2025
 * **Xing, Y.**, Ma, Y., Fan, Y., Sinatra, R., & Zeng, A. (2025). Academic mentees thrive in big groups, but survive in small groups. *Nature Human Behaviour*. [{{< fa external-link >}} Link](https://doi.org/10.1038/s41562-025-02114-8)
-    * [{{< fa star >}} **Featured in *Nature* News**: "How to pick a mentor: what the data say"](https://www.nature.com/articles/d41586-025-00644-9)
+    * [{{< fa star >}} **Featured in *Nature* News**: "How a PhD student’s lab size affects their chance of future academic success"](https://www.nature.com/articles/d41586-025-00644-9)
 
 ### 2024
 * **Xing, Y.**, Sun, Y., Pan, T., Livan, G., & Ma, Y. (2024). Exaptation: Academic mentees' career pathway to be independent and impactful. *arXiv preprint arXiv:2408.16992*. [{{< fa external-link >}} Preprint](https://arxiv.org/abs/2408.16992)
