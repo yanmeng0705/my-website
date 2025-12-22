@@ -1,7 +1,37 @@
 ---
 title: "Yanmeng Xing"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: mortar-board
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=ZoDOGFUAAAAJ
+    - icon: twitter-x
+      text: Twitter
+      href: https://x.com/YanmengXing
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yanmeng-xing-03334b193
+    - icon: github
+      text: Github
+      href: https://github.com/yanmeng0705
+
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a researcher at **Beijing Normal University**, specializing in **Science of Science**, **Complex Networks**, and **Scientometrics**. My research explores the fundamental patterns of scientific career development, mentorship dynamics, and the evolution of scientific knowledge.
+
+My recent work, published in **Nature Human Behaviour**, investigates how the size of academic groups influences the survival and success of mentees, a study that has been featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9).
+
+## Research Interests
+
+* **Science of Science**: Career pathways and mentorship.
+* **Complex Systems**: Dynamics and cascading failures in networks.
+* **Scientometrics**: Large-scale data analysis of scientific publications.
+
+## News
+
+* **[2025.03]** Our research on academic mentorship is published in ***Nature Human Behaviour*** and featured in ***Nature***.
+* **[2024.08]** New preprint available: "Exaptation: Academic mentees' career pathway to be independent and impactful."
