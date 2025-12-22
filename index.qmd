@@ -20,20 +20,32 @@ about:
       href: https://github.com/yanmeng0705
 ---
 
-## About Me
+## Biography
 
-I am a researcher at **Beijing Normal University**, specializing in **Science of Science**, **Complex Networks**, and **Scientometrics**. My research explores the fundamental patterns of scientific career development, mentorship dynamics, and the evolution of scientific knowledge.
+I am an independent **Principal Investigator (PI)** at the Data Management Innovation Research Center, **Nanjing University**. My research expertise lies in **Scientometrics**, **Science & Technology Policy**, and **Complex Networks**. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.
 
-My recent work, published in **Nature Human Behaviour**, investigates how the size of academic groups influences the survival and success of mentees. This study has been featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9): *"How to pick a mentor: what the data say"*.
+My recent research, published in ***Nature Human Behaviour***, explores how academic group size influences mentee success. This work has been highlighted by [***Nature News***](https://www.nature.com/articles/d41586-025-00644-9): *"How to pick a mentor: what the data say"*.
 
-## Research Interests
+Currently, I am leading a project funded by the **National Natural Science Foundation of China (NSFC) Youth Fund** focusing on the evolution of scientific research careers.
 
-* **Science of Science**: Career pathways, mentorship impact, and academic mobility.
-* **Complex Systems**: Cascading dynamics and resilience in scientific networks.
-* **Scientometrics**: Large-scale data analysis using MAG, OpenAlex, and APS.
+---
 
-## News
+## 🎓 Education & Experience
 
-* **[2025.03]** Our research on academic mentorship is published in ***Nature Human Behaviour*** and highlighted by ***Nature***.
-* **[2024.08]** New preprint available: "Exaptation: Academic mentees' career pathway to be independent and impactful."
-* **[2021.07]** Solving the cold-start problem in scientific credit allocation published in *Journal of Informetrics*.
+* **Joint Ph.D.** in Computer Science, IT University of Copenhagen, Denmark (2021.09 – 2023.05)
+* **M.D.-Ph.D.** in Complexity Science, Beijing Normal University, China (2017.09 – 2023.06)
+* **B.Sc.** in Mathematics and Applied Mathematics, China University of Mining and Technology, China (2013.09 – 2017.07)
+
+---
+
+## 🔬 Research Interests
+
+* **Science of Science**: Mentorship dynamics and career trajectories.
+* **Complex Systems**: Network resilience and cascading failures.
+* **Data Science**: Processing large-scale scholarly datasets like OpenAlex and MAG using Python and MySQL.
+
+## 📢 News
+
+* **[2025.03]** Our work on mentorship published in ***Nature Human Behaviour*** is featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9)!
+* **[2025.12]** Serving as an independent PI at **Nanjing University**.
+* **[2024.08]** New preprint on mentee independence pathways (Exaptation) is now on arXiv.
