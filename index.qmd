@@ -3,6 +3,8 @@ title: "Yanmeng Xing"
 image: profile.jpg
 about:
   template: trestles
+  image-width: 8em
+  image-shape: rectangle
   links:
     - icon: mortar-board
       text: Google Scholar
@@ -16,22 +18,22 @@ about:
     - icon: github
       text: Github
       href: https://github.com/yanmeng0705
-
 ---
 
 ## About Me
 
 I am a researcher at **Beijing Normal University**, specializing in **Science of Science**, **Complex Networks**, and **Scientometrics**. My research explores the fundamental patterns of scientific career development, mentorship dynamics, and the evolution of scientific knowledge.
 
-My recent work, published in **Nature Human Behaviour**, investigates how the size of academic groups influences the survival and success of mentees, a study that has been featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9).
+My recent work, published in **Nature Human Behaviour**, investigates how the size of academic groups influences the survival and success of mentees. This study has been featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9): *"How to pick a mentor: what the data say"*.
 
 ## Research Interests
 
-* **Science of Science**: Career pathways and mentorship.
-* **Complex Systems**: Dynamics and cascading failures in networks.
-* **Scientometrics**: Large-scale data analysis of scientific publications.
+* **Science of Science**: Career pathways, mentorship impact, and academic mobility.
+* **Complex Systems**: Cascading dynamics and resilience in scientific networks.
+* **Scientometrics**: Large-scale data analysis using MAG, OpenAlex, and APS.
 
 ## News
 
-* **[2025.03]** Our research on academic mentorship is published in ***Nature Human Behaviour*** and featured in ***Nature***.
+* **[2025.03]** Our research on academic mentorship is published in ***Nature Human Behaviour*** and highlighted by ***Nature***.
 * **[2024.08]** New preprint available: "Exaptation: Academic mentees' career pathway to be independent and impactful."
+* **[2021.07]** Solving the cold-start problem in scientific credit allocation published in *Journal of Informetrics*.
