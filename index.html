@@ -160,14 +160,6 @@ ul.task-list li input[type="checkbox"] {
 <p>My recent research, published in <strong><em>Nature Human Behaviour</em></strong>, explores how academic group size influences mentee success. This work has been highlighted by <a href="https://www.nature.com/articles/d41586-025-00644-9"><strong><em>Nature News</em></strong></a>.</p>
 <p>Currently, I am leading a research project supported by the <strong>National Natural Science Foundation of China (NSFC) Youth Fund</strong>.</p>
 </section>
-<section id="research-interests" class="level2">
-<h2 data-anchor-id="research-interests">Research Interests</h2>
-<ul>
-<li><strong>Science of Science</strong>: Mentorship dynamics, career trajectories, and academic independence.</li>
-<li><strong>Complex Systems</strong>: Network resilience, cascading failures, and structural analysis.</li>
-<li><strong>Data Science</strong>: Processing large-scale scholarly datasets (OpenAlex, MAG, APS) using Python and SQL.</li>
-</ul>
-</section>
 <section id="news" class="level2">
 <h2 data-anchor-id="news">News</h2>
 <ul>
@@ -176,10 +168,17 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>[2024.08]</strong> New preprint available: “Exaptation: Academic mentees’ career pathway to be independent and impactful.”</li>
 </ul>
 </section>
+<section id="research-interests" class="level2">
+<h2 data-anchor-id="research-interests">Research Interests</h2>
+<ul>
+<li><strong>Science of Science</strong>: Mentorship dynamics, career trajectories, and academic independence.</li>
+<li><strong>Complex Systems</strong>: Network resilience, cascading failures, and structural analysis.</li>
+<li><strong>Data Science</strong>: Processing large-scale scholarly datasets (OpenAlex, MAG, APS) using Python and SQL.</li>
+</ul>
+</section>
 </div>
 <script>
 window.document.addEventListener("DOMContentLoaded", function (event) {
-  // 定义要插入的教育经历 HTML 内容（纯英文，避免乱码）
   const educationHTML = `
   <div style="margin-top: 30px; text-align: left; border-top: 1px solid #ddd; padding-top: 20px;">
     <h4 style="font-weight: bold; font-size: 0.9rem; color: #444; margin-bottom: 10px; text-transform: uppercase;">Education</h4>
@@ -203,10 +202,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
   `;
-  // 找到左侧侧边栏 (.about-entity)
   const sidebar = document.querySelector('.about-entity');
   if (sidebar) {
-    // 将 HTML 插入到侧边栏的最底部
     sidebar.insertAdjacentHTML('beforeend', educationHTML);
   }
 });
