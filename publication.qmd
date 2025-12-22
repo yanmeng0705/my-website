@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-My research focuses on **Science of Science**, **Complex Networks**, and **Academic Career Development**. I use data-driven approaches to understand how mentorship, team size, and network structures affect scientific success.
+My research focuses on **Science of Science**, **Complex Networks**, and **Academic Career Development**. I use data-driven approaches to understand how mentorship, team size, and network structures affect scientific survival and success in the life-course view.
 
 ## Selected Publications
 
