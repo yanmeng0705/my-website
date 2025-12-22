@@ -3,7 +3,7 @@
     "path": "~/mysite/publication.qmd",
     "project_path": "publication.qmd",
     "type": "quarto_markdown",
-    "hash": "1601541332",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1766375951239.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,131",
-        "scrollLine": "5"
+        "cursorPosition": "7,0",
+        "scrollLine": "22"
     },
     "folds": "",
     "lastKnownWriteTime": 1766377207,
