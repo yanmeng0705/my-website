@@ -28,6 +28,11 @@ about:
       text: GitHub
       href: https://github.com/yanmeng0705
       aria-label: "GitHub profile"
+      
+    - icon: envelope
+      text: yanmeng0608@outlook.com
+      href: mailto:yanmeng0608@outlook.com
+      aria-label: "Email Yanmeng Xing"
 ---
 
 ::: {#hero-heading}
