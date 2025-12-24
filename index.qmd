@@ -4,31 +4,38 @@ image: profile.jpg
 
 format:
   html:
-    # 关键：把 TOC 设在 format.html 下，避免被站点级配置覆盖
+    # TOC（保持你现在已稳定的配置）
     toc: true
     toc-location: right
     toc-title: "On this page"
 
-    # 关键：必须使用 Bootstrap 主题（不要是 theme: none / pandoc），否则右侧 TOC 和图标很容易失效
+    # Bootstrap 主题
     theme: cosmo
 
+    # ✅ 官方稳妥方式：控制整体页面宽度
+    grid:
+      sidebar-width: 280px   # 左侧 about / Education
+      body-width: 1000px     # 正文宽度（推荐：明显变宽但不松散）
+      margin-width: 260px    # 右侧 TOC 区域
+      gutter-width: 1.5rem
+
 about:
-  # 让你下面 ::: {#hero-heading} 这段真正成为 about 模板的主内容
   id: hero-heading
   template: trestles
   image-width: 9em
   image-shape: rectangle
   image-alt: "Portrait photo of Yanmeng Xing"
   links:
-    - icon: mortarboard   # ✅ 正确的 Bootstrap Icons 名称（不是 mortar-board）
+    - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com/citations?user=ZoDOGFUAAAAJ
       aria-label: "Google Scholar profile"
+
     - icon: github
       text: GitHub
       href: https://github.com/yanmeng0705
       aria-label: "GitHub profile"
-      
+
     - icon: envelope
       text: yanmeng0608@outlook.com
       href: mailto:yanmeng0608@outlook.com
@@ -44,6 +51,7 @@ I will be a tenure-track assistant professor **(Principal Investigator)** at the
 My recent research, published in [***Nature Human Behaviour***](https://doi.org/10.1038/s41562-025-02114-8), explores how academic group size influences mentee's scientific career. This work has been highlighted by [***Nature News***: "How a PhD student’s lab size affects their chance of future academic success"](https://www.nature.com/articles/d41586-025-00644-9).
 
 ## News
+
 * **[2026.01]** Since **2026.01**, I have been serving as an independent PI at **Nanjing University**.
 * **[2025.03]** Our work on mentorship published in ***Nature Human Behaviour*** is featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9)!
 * **[2024.08]** New preprint available: "Exaptation: Academic mentees' career pathway to be independent and impactful."
@@ -56,7 +64,7 @@ My recent research, published in [***Nature Human Behaviour***](https://doi.org/
 
 :::
 
-<!-- 无 JS 兜底：用户禁用 JS 时至少还能看到 Education（不会在左侧卡片里，但信息不丢） -->
+<!-- 无 JS 兜底 -->
 <noscript>
   <section style="margin-top: 2rem;">
     <h2>Education</h2>
@@ -70,7 +78,6 @@ My recent research, published in [***Nature Human Behaviour***](https://doi.org/
 
 <script>
 window.document.addEventListener("DOMContentLoaded", function () {
-  // 避免重复插入（热加载/重复渲染时会发生）
   if (document.getElementById("sidebar-education")) return;
 
   const educationHTML = `
@@ -100,16 +107,13 @@ window.document.addEventListener("DOMContentLoaded", function () {
   </div>
   `;
 
-  // 插入到 about 左侧实体卡片区域
   const sidebar = document.querySelector(".about-entity");
-  if (sidebar) {
-    sidebar.insertAdjacentHTML("beforeend", educationHTML);
-  }
+  if (sidebar) sidebar.insertAdjacentHTML("beforeend", educationHTML);
 });
 </script>
 
 <style>
-/* Education：亮/暗主题都兼容（不写死 #000/#444 之类） */
+/* Education：亮 / 暗主题都兼容 */
 .sidebar-education{
   margin-top: 30px;
   border-top: 1px solid var(--bs-border-color);
@@ -136,14 +140,12 @@ window.document.addEventListener("DOMContentLoaded", function () {
   color: var(--bs-body-color);
 }
 
-.edu-dept{
+.edu-dept,
+.edu-school{
   color: var(--bs-secondary-color);
 }
 
-.edu-school{
-  color: var(--bs-secondary-color);
-  opacity: 0.88;
-}
+.edu-school{ opacity: 0.88; }
 
 .edu-time{
   color: var(--bs-secondary-color);
@@ -151,7 +153,7 @@ window.document.addEventListener("DOMContentLoaded", function () {
   font-size: 0.8rem;
 }
 
-/* 宽屏下微调 about 结构（不要再改 .quarto-container 宽度） */
+/* 宽屏下微调 about 结构 */
 @media (min-width: 1200px) {
   .about-entity {
     max-width: 280px;
