@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Yanmeng Xing"
+  description: "Yanmeng Xing — PI at Nanjing University. Research in Science of Science, Complex Networks, and Scientometrics."
   navbar:
     background: secondary
     search: true
