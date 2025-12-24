@@ -4,6 +4,18 @@ title: "Join Us"
 
 We are currently looking for **highly motivated Master's and Ph.D. students** to join our research group starting in **2027**.
 
+### Pre-Master and Pre-Doctoral Opportunities
+
+Students planning to apply for the **2027 Master's or Ph.D. programs** are welcome to **contact me in advance** to explore opportunities to join the group as **pre-master's or pre-doctoral researchers**.
+
+During the pre-master / pre-doctoral period, students will:
+- Participate in ongoing research projects
+- Receive close research mentorship and training
+- Gain hands-on experience with real-world research data
+- Be supported in preparing for graduate applications
+
+**Appropriate research stipends** will be provided based on individual engagement and project involvement.
+
 ### Research Directions
 
 Our group conducts interdisciplinary research at the intersection of **Science of Science**, **Complex Networks**, and **Academic Career Development**. We use large-scale data and computational methods to study how mentorship, collaboration structures, and team dynamics shape scientific careers over the life course.
@@ -20,17 +32,6 @@ Students with interests in **AI for science**, **network science**, **computatio
 
 Applicants with a strong background in **mathematics, statistics, computer science, physics, data science**, or related fields will be well suited for the group. Prior experience with **Python, SQL, machine learning, or large-scale data analysis** is a plus, but not strictly required.
 
-### Pre-Master and Pre-Doctoral Opportunities
-
-Students planning to apply for the **2027 Master's or Ph.D. programs** are welcome to **contact me in advance** to explore opportunities to join the group as **pre-master's or pre-doctoral researchers**.
-
-During the pre-master / pre-doctoral period, students will:
-- Participate in ongoing research projects
-- Receive close research mentorship and training
-- Gain hands-on experience with real-world research data
-- Be supported in preparing for graduate applications
-
-**Appropriate research stipends** will be provided based on individual engagement and project involvement.
 
 ### How to Apply
 
