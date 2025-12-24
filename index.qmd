@@ -41,7 +41,7 @@ about:
 
 I will be a tenure-track assistant professor **(Principal Investigator)** at the Data Management Innovation Research Center, **Nanjing University**. My research expertise lies in **Science of Science**, **Complex Networks**, and **Scientometrics**. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.
 
-My recent research, published in ***Nature Human Behaviour***, explores how academic group size influences mentee's scientific career. This work has been highlighted by [***Nature News***: "How a PhD student’s lab size affects their chance of future academic success"](https://www.nature.com/articles/d41586-025-00644-9).
+My recent research, published in [***Nature Human Behaviour***](https://doi.org/10.1038/s41562-025-02114-8), explores how academic group size influences mentee's scientific career. This work has been highlighted by [***Nature News***: "How a PhD student’s lab size affects their chance of future academic success"](https://www.nature.com/articles/d41586-025-00644-9).
 
 ## News
 * **[2026.01]** Since **2026.01**, I have been serving as an independent PI at **Nanjing University**.

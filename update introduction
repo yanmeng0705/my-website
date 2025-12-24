@@ -1,5 +1,5 @@
 git add .
-git commit -m "Correctly update publications for NJU Scientometrics lab"
+git commit -m "Correctly update"
 git push
 
 太棒了！祝贺你成功上线了自己的第一个个人网站！ 看到自己的代码变成互联网上可以访问的页面，这种成就感是非常美妙的。
