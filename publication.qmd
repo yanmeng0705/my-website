@@ -26,7 +26,6 @@ My research focuses on **Science of Science**, **Complex Networks**, and **Acade
 ### 2019
 * **Xing, Y.**, Zeng, A., Fan, Y., & Di, Z. (2019). The strong nonlinear effect in academic dropout. *Scientometrics*, 120(2), 793-805. [{{< fa external-link >}} Link](https://doi.org/10.1007/s11192-019-03135-7)
 
----
 ## Working Projects
 
 * **Xing, Y.**, et al. *Quantifying academic independence and its association with career success.*  
@@ -37,7 +36,6 @@ My research focuses on **Science of Science**, **Complex Networks**, and **Acade
 
 * **Xing, Y.**, et al. *Authorship dynamics and their impact on scientific careers in physics.*  
   Data analysis in progress.
----
 
 ## Academic Profiles
 * [{{< fa mortar-board >}} Google Scholar](https://scholar.google.com/citations?user=ZoDOGFUAAAAJ)
