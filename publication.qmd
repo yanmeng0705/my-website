@@ -5,18 +5,6 @@ title: "Publications"
 My research focuses on **Science of Science**, **Complex Networks**, and **Academic Career Development**. I use data-driven approaches to understand how mentorship, team size, and network structures affect scientific survival and success in the life-course perspective. Recently, my research has also expanded to include the evolution of cross-disciplinary knowledge.
 
 
-## Working Projects
-
-* **Xing, Y.**, et al. *Quantifying academic independence and its association with career success.*  
-  Under review.
-
-* **Xing, Y.**, et al. *The growing role of artificial intelligence in cross-disciplinary science.*  
-  Manuscript in preparation.
-
-* **Xing, Y.**, et al. *Authorship dynamics and their impact on scientific careers in physics.*  
-  Data analysis in progress.
-
-
 ## Selected Publications
 
 ### 2025
@@ -38,6 +26,17 @@ My research focuses on **Science of Science**, **Complex Networks**, and **Acade
 ### 2019
 * **Xing, Y.**, Zeng, A., Fan, Y., & Di, Z. (2019). The strong nonlinear effect in academic dropout. *Scientometrics*, 120(2), 793-805. [{{< fa external-link >}} Link](https://doi.org/10.1007/s11192-019-03135-7)
 
+---
+## Working Projects
+
+* **Xing, Y.**, et al. *Quantifying academic independence and its association with career success.*  
+  Under review.
+
+* **Xing, Y.**, et al. *The growing role of artificial intelligence in cross-disciplinary science.*  
+  Manuscript in preparation.
+
+* **Xing, Y.**, et al. *Authorship dynamics and their impact on scientific careers in physics.*  
+  Data analysis in progress.
 ---
 
 ## Academic Profiles
