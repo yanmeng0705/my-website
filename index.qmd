@@ -46,13 +46,13 @@ about:
 
 ## Biography
 
-I will be a tenure-track assistant professor **(Principal Investigator)** at the Data Management Innovation Research Center, **Nanjing University**. Previously, I was a postdoctoral researcher in the Department of Statistics and Data Science, Southern University of Science and Technology (July 2023–December 2025). My research expertise lies in **Science of Science**, **Complex Networks**, and **Scientometrics**. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.
+I will be a **tenure-track assistant professor** at the Data Management Innovation Research Center, **Nanjing University, Suzhou Campus**. Previously, I was a postdoctoral researcher in the Department of Statistics and Data Science, Southern University of Science and Technology (July 2023–December 2025). My research expertise lies in **Science of Science**, **Complex Networks**, and **Scientometrics**. I am particularly interested in the career development paths of young scholars and the mechanisms of academic mentorship.
 
 My recent research, published in [***Nature Human Behaviour***](https://doi.org/10.1038/s41562-025-02114-8), explores how academic group size influences mentee's scientific career. This work has been highlighted by [***Nature News***: "How a PhD student’s lab size affects their chance of future academic success"](https://www.nature.com/articles/d41586-025-00644-9).
 
 ## News
 
-* **[2026.01]** Since **2026.01**, I have been serving as an independent PI at **Nanjing University**.
+* **[2026.01]** Since **2026.01**, I have been serving as an independent **Principal Investigator (PI)** at Nanjing University.
 * **[2025.03]** Our work on mentorship published in ***Nature Human Behaviour*** is featured by [**Nature News**](https://www.nature.com/articles/d41586-025-00644-9)!
 * **[2024.08]** New preprint available: "Exaptation: Academic mentees' career pathway to be independent and impactful."
 
