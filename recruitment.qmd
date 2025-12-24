@@ -4,8 +4,6 @@ title: "Join Us"
 
 We are currently looking for **highly motivated Master's and Ph.D. students** to join our research group starting in **2027**.
 
-We aim to build a research environment that is **respectful, collaborative, and intellectually open**, supports **work–life balance**, and encourages students to grow into **independent researchers**.
-
 ### Pre-Master and Pre-Doctoral Opportunities
 
 Students planning to apply for the **2027 Master's or Ph.D. programs** are welcome to **contact me in advance** to explore opportunities to join the group as **pre-master's or pre-doctoral researchers**.
@@ -15,7 +13,7 @@ During the pre-master / pre-doctoral period, students will:
 - Receive close research mentorship and training
 - Gain hands-on experience with real-world research data
 - Be supported in preparing for graduate applications
-- Work in a **respectful and supportive research environment** that values **sustainable progress**
+- Work in a respectful and supportive research environment 
 
 In addition, students may have opportunities to engage in **international academic exchange and collaboration**, including potential interactions with research partners in **Europe, the United States, and Hong Kong**, depending on project needs and individual interests.
 
@@ -50,4 +48,4 @@ Early contact is strongly encouraged.
 
 ---
 
-We aim to build an **inclusive, collaborative, and intellectually open research environment**, and we welcome students who are curious, self-motivated, and eager to explore data-driven research questions at the frontier of science.
+We aim to build a research environment that is **respectful, collaborative, and intellectually open**, supports **work–life balance**, and encourages students to grow into **independent researchers**. We welcome students who are curious, self-motivated, and eager to explore data-driven research questions at the frontier of science.
