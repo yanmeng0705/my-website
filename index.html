@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-86a2019cc7f7fdb38d0e678c05d61c34.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-572ed112b7f5df7d47051c270231bf6b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -186,7 +186,7 @@ ul.task-list li input[type="checkbox"] {
 </div></div>
 </div>
 
-<!-- 无 JS 兜底：用户禁用 JS 时至少还能看到 Education（不会在左侧卡片里，但信息不丢） -->
+<!-- 无 JS 兜底 -->
 <noscript>
 <section style="margin-top: 2rem;">
 <h2>
@@ -207,7 +207,6 @@ Education
 </noscript>
 <script>
 window.document.addEventListener("DOMContentLoaded", function () {
-  // 避免重复插入（热加载/重复渲染时会发生）
   if (document.getElementById("sidebar-education")) return;
 
   const educationHTML = `
@@ -237,15 +236,12 @@ window.document.addEventListener("DOMContentLoaded", function () {
   </div>
   `;
 
-  // 插入到 about 左侧实体卡片区域
   const sidebar = document.querySelector(".about-entity");
-  if (sidebar) {
-    sidebar.insertAdjacentHTML("beforeend", educationHTML);
-  }
+  if (sidebar) sidebar.insertAdjacentHTML("beforeend", educationHTML);
 });
 </script>
 <style>
-/* Education：亮/暗主题都兼容（不写死 #000/#444 之类） */
+/* Education：亮 / 暗主题都兼容 */
 .sidebar-education{
   margin-top: 30px;
   border-top: 1px solid var(--bs-border-color);
@@ -272,14 +268,12 @@ window.document.addEventListener("DOMContentLoaded", function () {
   color: var(--bs-body-color);
 }
 
-.edu-dept{
+.edu-dept,
+.edu-school{
   color: var(--bs-secondary-color);
 }
 
-.edu-school{
-  color: var(--bs-secondary-color);
-  opacity: 0.88;
-}
+.edu-school{ opacity: 0.88; }
 
 .edu-time{
   color: var(--bs-secondary-color);
@@ -287,7 +281,7 @@ window.document.addEventListener("DOMContentLoaded", function () {
   font-size: 0.8rem;
 }
 
-/* 宽屏下微调 about 结构（不要再改 .quarto-container 宽度） */
+/* 宽屏下微调 about 结构 */
 @media (min-width: 1200px) {
   .about-entity {
     max-width: 280px;
