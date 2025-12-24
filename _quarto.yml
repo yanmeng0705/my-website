@@ -18,10 +18,6 @@ website:
         href: https://x.com/YanmengXing
       - icon: linkedin
         href: https://linkedin.com/in/yanmeng-xing-03334b193
-      - icon: github
-        menu:
-          - text: Source Code
-            href:  https://github.com/yanmeng0705
 
 format:
   html:
