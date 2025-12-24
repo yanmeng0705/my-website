@@ -6,18 +6,15 @@ We are currently looking for **highly motivated Master's and Ph.D. students** to
 
 ### Research Directions
 
-Our group focuses on data-driven studies of scientific systems, with three core research directions:
+Our group conducts interdisciplinary research at the intersection of **Science of Science**, **Complex Networks**, and **Academic Career Development**. We use large-scale data and computational methods to study how mentorship, collaboration structures, and team dynamics shape scientific careers over the life course.
 
-1. **Academic career trajectories of early-career researchers**  
-   We investigate the evolution of academic careers of young scholars and the underlying mechanisms shaping their long-term development and success, with a particular focus on both **individual-level dynamics** and **team-based processes**, such as mentorship, collaboration structures, and group organization.
+In addition, we are increasingly interested in **artificial intelligence–driven approaches** to understanding **research network dynamics and knowledge evolution**, including:
+- The role of AI in shaping cross-disciplinary knowledge creation
+- Network dynamics of scientific collaboration and authorship
+- The evolution of research topics and ideas across disciplines
+- Data-driven modeling of scientific discovery and innovation processes
 
-2. **Quantifying the impact of artificial intelligence on disciplinary communication and knowledge diffusion**  
-   We study how AI technologies influence **interdisciplinary communication**, **knowledge dissemination**, and the structure of scientific exchange across disciplines.
-
-3. **Data-driven modeling of scientific discovery and innovation processes**  
-   We develop computational and statistical models to understand and characterize patterns of scientific discovery, innovation, and knowledge production using large-scale scholarly data.
-
-Students with interests in **Science of Science**, **AI and science**, **network science**, or **data-driven modeling of scientific systems** are especially encouraged to apply.
+Students with interests in **AI for science**, **network science**, **computational social science**, or **data-driven studies of knowledge systems** are especially encouraged to apply.
 
 ### Prospective Master's and Ph.D. Students (2027 Intake)
 
