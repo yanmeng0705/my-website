@@ -4,6 +4,18 @@ title: "Publications"
 
 My research focuses on **Science of Science**, **Complex Networks**, and **Academic Career Development**. I use data-driven approaches to understand how mentorship, team size, and network structures affect scientific survival and success in the life-course view.
 
+## Working Projects
+
+* **Xing, Y.**, et al. *Quantifying academic independence and its association with career success.*  
+  Under review.
+
+* **Xing, Y.**, et al. *The growing role of artificial intelligence in cross-disciplinary science.*  
+  Manuscript in preparation.
+
+* **Xing, Y.**, et al. *Authorship dynamics and their impact on scientific careers in physics.*  
+  Data analysis in progress.
+
+
 ## Selected Publications
 
 ### 2025
