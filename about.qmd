@@ -2,4 +2,14 @@
 title: "About"
 ---
 
-About this site
+## About the Group
+
+Our group is committed to building a **respectful, collaborative, and intellectually open research environment**. We believe that high-quality research is best achieved in a culture where ideas can be discussed openly and where individuals are treated with mutual respect.
+
+We emphasize **equality and collegiality** among faculty, students, and peers. Academic discussions within the group are encouraged to be constructive and inclusive, and members are supported in developing their own perspectives and academic identities. We value collaboration over hierarchy and encourage independent thinking at all career stages.
+
+We also place strong emphasis on **work–life balance**. We believe that sustainable research progress comes from long-term well-being rather than short-term overwork. Group members are encouraged to manage their time responsibly, maintain healthy boundaries between research and personal life, and pursue research in a way that is both ambitious and sustainable.
+
+Academically, the group aims to maintain **both international and domestic competitiveness**. Our research focuses on addressing frontier scientific questions while remaining grounded in real-world relevance. We strive to bridge theory, data, and practice, contributing to the understanding of scientific systems and innovation processes.
+
+Overall, our goal is to foster a research culture that is **rigorous but humane**, **ambitious but sustainable**, and **supportive of students’ growth into independent researchers**.

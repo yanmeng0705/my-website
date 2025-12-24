@@ -4,6 +4,8 @@ title: "Join Us"
 
 We are currently looking for **highly motivated Master's and Ph.D. students** to join our research group starting in **2027**.
 
+We aim to build a research environment that is **respectful, collaborative, and intellectually open**, supports **work–life balance**, and encourages students to grow into **independent researchers**.
+
 ### Pre-Master and Pre-Doctoral Opportunities
 
 Students planning to apply for the **2027 Master's or Ph.D. programs** are welcome to **contact me in advance** to explore opportunities to join the group as **pre-master's or pre-doctoral researchers**.
@@ -13,6 +15,7 @@ During the pre-master / pre-doctoral period, students will:
 - Receive close research mentorship and training
 - Gain hands-on experience with real-world research data
 - Be supported in preparing for graduate applications
+- Work in a **respectful and supportive research environment** that values **sustainable progress**
 
 **Appropriate research stipends** will be provided based on individual engagement and project involvement.
 
@@ -31,7 +34,6 @@ Students with interests in **AI for science**, **network science**, **computatio
 ### Prospective Master's and Ph.D. Students (2027 Intake)
 
 Applicants with a strong background in **mathematics, statistics, computer science, physics, data science**, or related fields will be well suited for the group. Prior experience with **Python, SQL, machine learning, or large-scale data analysis** is a plus, but not strictly required.
-
 
 ### How to Apply
 
